@@ -1,5 +1,5 @@
-# The TV Show RPG Prompt
-Ready to go prompt that puts you into a TV show of your choice!
+# The TV Show RPG Prompt 🎬 
+🚀 Ready to go prompt that puts you into a TV show of your choice! 🌟
 
 ## Requirements
 - `gpt-4` for best results
