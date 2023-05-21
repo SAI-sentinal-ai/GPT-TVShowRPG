@@ -2,7 +2,7 @@
 🚀 A ready-to-go prompt that puts you into a TV show of your choice! 🌟
 
 ## Requirements
-- `gpt-4` for best results
+- `gpt-4` for best results, may work on `gpt-3.5`
 - Just copy-and-paste the prompt below into a fresh `ChatGPT` session and hit enter 
 - Alternatively, set as system prompt via the `OpenAI playground`
 
