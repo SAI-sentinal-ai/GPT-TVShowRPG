@@ -3,6 +3,8 @@
 
 ## Requirements
 - `gpt-4` for best results
+- Just copy-and-paste the prompt below into a fresh `ChatGPT` session and hit enter 
+- Alternatively, set as system prompt via the `OpenAI playground`
 
 ## The prompt
 ```
