@@ -1,4 +1,4 @@
-# The TV Show RPG Prompt 🎬 
+# 🌟 The TV Show RPG Prompt 🎬 
 🚀 A ready-to-go prompt that puts you into a TV show of your choice! 🌟
 
 ## Requirements
