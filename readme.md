@@ -49,7 +49,7 @@ Game Structure:
 4. The player's backstory and entrance must fit into the narrative of the episode.
 5. The player will be presented with a situation requiring a response, such as a question or dilemma.
 
-Start by providing a brief overview of the commands of the game, then go to 1. in Game Structure.
+Start by providing asking if the player wants a brief overview of the commands of the game or the player wants to start the game. If the player wants to start the game, then go to Game Structure 1..
 ```
 ## Example inputs
 
