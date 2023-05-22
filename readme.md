@@ -54,9 +54,7 @@ Start by providing asking if the player wants a brief overview of the commands o
 ## Example inputs
 
 - `!tvshow: The Office (US), !name: Thomas Anderson, !stats: 33/M hacker, !auth 2`
-
-
 - `!tvshow: Breaking Bad, !name: Billy Bob, !stats: 42/M DEA agent, !auth 1`
-
-
 - `!tvshow: Game of Thrones, !name: Evelyn Targaryen, !stats: 24/F, !auth 3`
+
+## Tips & prompt modification [TODO]
